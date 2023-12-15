@@ -244,8 +244,8 @@ MonoBehaviour:
   DefaultSprite: {fileID: 219528315, guid: 1a1ab872316ea884798de97f46cb04b8, type: 3}
   PreuanNoWater: {fileID: -319083108, guid: 1a1ab872316ea884798de97f46cb04b8, type: 3}
   PreuanAndWater: {fileID: -1179587892, guid: 5504ff2b9aa94f7469489a2b4223bf05, type: 3}
-  delayToPreuan: 60
-  delayToWater: 120
+  delayToPreuan: 30
+  delayToWater: 60
   PreuanDelay: 0
   WaterDelay: 0
   seedPlace: {fileID: 8984650762187963401}
@@ -464,7 +464,7 @@ MonoBehaviour:
   MinHP: 10
   MaxHP: 100
   monster: {fileID: 3581310832744485982}
-  spawnRate: 1
+  spawnRate: 10
   spawnChance: 0.25
   IsmonsterComing: 0
   animator: {fileID: 8277817677165492113}

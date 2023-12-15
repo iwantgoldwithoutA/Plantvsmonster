@@ -23,6 +23,6 @@ MonoBehaviour:
   - {fileID: 1588362948, guid: 5504ff2b9aa94f7469489a2b4223bf05, type: 3}
   drySeed: {fileID: -426678354, guid: 1a1ab872316ea884798de97f46cb04b8, type: 3}
   TimeToGlow: 10
-  Amount: 23
+  Amount: 30
   amountBuy: 1
   sellPrice: 15
